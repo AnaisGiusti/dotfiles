@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anais.giusti@gmail.com
+	name = anais giustiniani
